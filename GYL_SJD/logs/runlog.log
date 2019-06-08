@@ -1,0 +1,48 @@
+2019-05-30 10:16:46,954 desired_caps.py[line:46] INFO 开始启动商家端
+2019-05-30 10:17:02,178 desired_caps.py[line:48] INFO 商家端启动完成
+2019-05-30 10:17:02,178 desired_caps.py[line:49] INFO 等待中
+2019-05-30 10:17:08,181 common_fun.py[line:18] INFO 屏幕左滑
+2019-05-30 10:17:08,840 common_fun.py[line:18] INFO 屏幕左滑
+2019-05-30 10:17:09,480 common_fun.py[line:18] INFO 屏幕左滑
+2019-05-30 10:17:23,113 common_fun.py[line:58] INFO 0登录页 截图
+2019-05-30 10:17:23,829 loginView.py[line:23] INFO 登录商家端
+2019-05-30 10:17:28,829 common_fun.py[line:58] INFO 1首页 截图
+2019-05-30 10:17:32,985 loginView.py[line:33] INFO 取消更新
+2019-05-30 10:17:32,985 purchase.py[line:27] INFO 创建申购单
+2019-05-30 10:18:15,724 common_fun.py[line:58] INFO 2创建申购单 截图
+2019-05-30 10:18:18,688 sp_sgd.py[line:17] INFO 进入待审批
+2019-05-30 10:18:19,970 common_fun.py[line:43] INFO 屏幕下划
+2019-05-30 10:18:21,152 common_fun.py[line:58] INFO 3待审批申购单列表 截图
+2019-05-30 10:18:28,147 common_fun.py[line:58] INFO 4审批通过详情 截图
+2019-05-30 10:18:37,619 sgd.py[line:14] INFO 查看申购单
+2019-05-30 10:18:38,732 common_fun.py[line:43] INFO 屏幕下划
+2019-05-30 10:18:41,919 common_fun.py[line:58] INFO 5申购单列表 截图
+2019-05-30 10:18:44,737 cgd.py[line:13] INFO 查看采购单
+2019-05-30 10:18:45,502 common_fun.py[line:43] INFO 屏幕下划
+2019-05-30 10:18:48,605 common_fun.py[line:58] INFO 7采购单列表 截图
+2019-05-30 10:18:52,739 common_fun.py[line:58] INFO 8采购单0 截图
+2019-05-30 10:18:58,511 common_fun.py[line:58] INFO 8采购单1 截图
+2019-05-30 10:19:04,862 common_fun.py[line:27] INFO 屏幕右滑
+2019-05-30 10:19:05,531 common_fun.py[line:58] INFO 9个人中心 截图
+2019-05-30 10:19:05,892 logout.py[line:19] INFO 退出商家端
+2019-05-30 10:19:19,157 common_fun.py[line:58] INFO 0登录页 截图
+2019-05-30 10:19:19,832 loginView.py[line:23] INFO 登录商家端
+2019-05-30 10:19:24,833 common_fun.py[line:58] INFO 1首页 截图
+2019-05-30 10:19:29,415 loginView.py[line:33] INFO 取消更新
+2019-05-30 10:19:29,415 dfh.py[line:25] INFO 进入待发货
+2019-05-30 10:19:30,135 dfh.py[line:27] INFO 进入物品维度
+2019-05-30 10:19:32,266 common_fun.py[line:27] INFO 屏幕右滑
+2019-05-30 10:19:32,869 common_fun.py[line:58] INFO 9个人中心 截图
+2019-05-30 10:19:33,228 logout.py[line:19] INFO 退出商家端
+2019-05-30 10:19:38,447 dsh.py[line:15] INFO 进入待收货
+2019-05-30 10:19:40,899 pd.py[line:16] INFO 进入盘点
+2019-05-30 10:19:43,249 kc.py[line:13] INFO 进入库存查询
+2019-05-30 10:19:45,665 bzqyj.py[line:11] INFO 进入保质期浴巾
+2019-05-30 10:19:48,038 kcyj.py[line:11] INFO 进入库存预警
+2019-05-30 10:19:50,625 shbb.py[line:14] INFO 进入收货报表
+2019-05-30 10:19:52,920 dzhz.py[line:12] INFO 进入对账汇总
+2019-05-30 10:19:58,298 common_fun.py[line:58] INFO 21对账汇总列表 截图
+2019-05-30 10:20:00,787 common_fun.py[line:27] INFO 屏幕右滑
+2019-05-30 10:20:01,388 common_fun.py[line:58] INFO 9个人中心 截图
+2019-05-30 10:20:01,705 logout.py[line:19] INFO 退出商家端
+2019-05-30 10:20:04,226 myunit.py[line:23] INFO 关闭供应链商家端

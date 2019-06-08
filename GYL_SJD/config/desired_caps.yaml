@@ -1,0 +1,17 @@
+platformName: Android
+appname: sjd.apk
+noReset: false #false表示每次启动APP都是初始化的状态
+appPackage: com.yhbc.purchase
+appActivity: com.yhbc.purchase.ui.login.SplashActivity
+port: 4723
+unicodeKeyboard: True
+resetKeyboard: True
+
+#夜神模拟器
+ip: 127.0.0.1
+platformVersion: 4.4.2
+deviceName: 127.0.0.1:62001
+## meizu 15 plus 真机
+#platformVersion: 7.0
+#deviceName: 15 Plus
+#udid: 891QADSJESYXG
